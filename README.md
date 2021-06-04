@@ -1,1 +1,1 @@
-# mapping-philanthropy
+# Mapping Philanthropy in Science
